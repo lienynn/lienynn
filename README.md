@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lien</h1>
-<h3 align="center">A Full Stack Developer with a knack for learning</h3>
+<h1 >Hi 👋, I'm Lien</h1>
+<h3 >A Full Stack Developer with a knack for learning</h3>
 
 - 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
 

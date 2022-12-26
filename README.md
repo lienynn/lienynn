@@ -1,9 +1,7 @@
 <h1 >Hi 👋, I'm Lien</h1>
 <h3 >A Full Stack Developer with a knack for learning</h3>
 
-- 🔭 I’m currently working on [brunchtime](https://www.brunchtime.live/)
-
-- 🌱 I’m currently learning **React, Docker**
+- 🌱 I’m currently learning **Typscript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
